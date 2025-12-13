@@ -1,5 +1,5 @@
 ### Jinwoo Lee
-I'm a software engineer interested in Cryptography, Blockchain, and Web Development.
+I'm a software engineer interested in Cryptography, AI, and Web Development.
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Ed25519 Deep Dive](https://chemonoworld.github.io/blog/ed25519/)
