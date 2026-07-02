@@ -1,5 +1,5 @@
 ### Jinwoo Lee
-Software Engineer interested in Cryptography, AI, and Web Development.
+Software Engineer interested in Applied Cryptography & AI Agents.
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Pedersen DKG란?](https://chemonoworld.github.io/blog/pedersen-dkg/)
